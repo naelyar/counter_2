@@ -1,0 +1,24 @@
+.counter{
+    margin: 0 auto;
+    padding:0 auto;
+    width: 700px;
+    height: 500px;
+    background-color: rgb(20, 175, 103);
+}
+.counter h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 70px;
+    color:rgba(14, 1, 1, 0.616);
+    transform: translateY(100px);
+}
+.counter button {
+    transform: translateY(120px);
+    margin-left: 250px;
+    width: 165px;
+    height: 60px;
+    background-color: rgb(103, 231, 188);
+}
+#clickme{
+    font-size: 20px;
+}
